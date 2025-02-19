@@ -20,9 +20,9 @@ const Home = () => (
       </div>
       <div className="col-md-6">
         <h1 className="display-4 mb-4">Naveen Kama</h1>
-        <h2 className="text-muted mb-4">MERN Stack Developer</h2>
+        <h2 className="text-muted mb-4">Full Stack Developer</h2>
         <p className="lead">
-          Passionate web developer with good in MongoDB, Express.js, React, and Node.js.
+          Passionate web developer with good in JavaScript, MongoDB, Express.js, React, and Node.js.
           Creating scalable and efficient web applications.
         </p>
         <div className="mt-4">
@@ -48,7 +48,8 @@ const About = () => (
         <p>
           I am a recent Post graduate in Master of Computer Applications with a strong foundation in web development.
           My journey in programming started during my college years, where I discovered my
-          passion for building full-stack web applications with the MERN stack.
+          passion for building full-stack web applications with the JavaScript, MongoDB,
+           Express.js, React, Node.js and MySQL.
         </p>
       </div>
       <div className="col-md-6">
